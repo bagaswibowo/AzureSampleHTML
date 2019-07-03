@@ -2,4 +2,4 @@
 deployment:
 tasks:
 - export DEPLOYPATH=/home/u6767138/public_html/cvbagaswibowo
-- /bin/cp -r /cvbagaswibowo/* $DEPLOYPATH
+- /bin/cp -r /home/u6767138/public_html/cvbagaswibowo $DEPLOYPATH
